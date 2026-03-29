@@ -23,13 +23,6 @@ Architecture du Projet
  * interface.py : Gère toute la couche graphique (Canvas, Drag & Drop, menus, oscilloscope).
  * physics.py : Le cœur scientifique qui traite l'analyse du graphe et les calculs électriques.
 
-Installation et Lancement
-
- 1. Cloner le projet :
-  git clone https://github.com/TON_PSEUDO/RLC_Simulator.git
- 2. Lancer l'application :
-  Assurez-vous d'avoir Python installé, puis lancez: python main.py
-
 Exemple de Test : Circuit RC simple
 
  1. Posez une Pile (12V) et un Switch.
