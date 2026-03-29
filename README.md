@@ -1,4 +1,4 @@
-VoltStudio Pro - Simulateur RLC Interactif
+#VoltStudio Pro - Simulateur RLC Interactif
 
 VoltStudio Pro est une application de simulation de circuits électriques développée en Python avec Tkinter. Elle permet de concevoir des circuits complexes, d'analyser leur topologie et de visualiser les phénomènes physiques comme la charge et la décharge d'un condensateur en temps réel.
 
